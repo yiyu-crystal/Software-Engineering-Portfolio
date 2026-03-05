@@ -16,7 +16,7 @@
 ---
 
 ### ⚙️ 底层逻辑修行 (C++ Learning Journey)
-。
+* 持续学习中
 
 #### 🛡️ 数据结构仓库 (Data Structures)
 * 薄弱，正在进行补全
